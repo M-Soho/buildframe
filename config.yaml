@@ -1,0 +1,11 @@
+channels:
+  whatsapp:
+    api_key: "YOUR_WHATSAPP_API_KEY"
+  facebook_marketplace:
+    api_key: "YOUR_FACEBOOK_MARKETPLACE_API_KEY"
+  sms:
+    api_key: "YOUR_SMS_API_KEY"
+  email:
+    smtp_server: "smtp.example.com"
+    username: "user@example.com"
+    password: "securepassword"
